@@ -1,0 +1,17 @@
+baseurl='https://thealleygroup.harvestapp.com'
+auth="themail@gmail.com:thepassword" #should be urlfriendly and in the format: themail@gmail.com:thepassword
+me=772668 # this should be your harves app id. you can leave it empty once and then find out with ./who-am-i.sh
+
+project_groups="youfoodz papier bb alley"
+youfoodz="8675970 8742335 8366299" # these are the ids on the dropdown when you create t a task
+papier="8400323 7682479"
+bb="7756300 7446393"
+alley="7682483"
+bb_max=40
+papier_max=30
+alley_max=50
+youfoodz_max=10
+bb_warn=3
+papier_warn=3
+alley_warn=3
+youfoodz_warn=3
